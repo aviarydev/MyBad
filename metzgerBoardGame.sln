@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "metzgerBoardGame", "metzgerBoardGame\metzgerBoardGame.pyproj", "{BD2D6400-19BD-4448-8042-AA06CB7D6FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2D6400-19BD-4448-8042-AA06CB7D6FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2D6400-19BD-4448-8042-AA06CB7D6FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40DF32B9-711C-438D-9C57-1A31E437DF5A}
+	EndGlobalSection
+EndGlobal
